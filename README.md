@@ -1,2 +1,0 @@
-# swearbook
-Swearbook webapp 
