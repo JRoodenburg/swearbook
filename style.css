@@ -1,0 +1,44 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid white;
+    padding: 5px;
+    cursor: pointer;
+
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+th {text-align: left;}
+
+td:hover{
+  background-color: aquamarine;
+}
+.input { height: 20vh; width: 90vw; margin-left: 5vw; margin-top: 5vh; font-size: 10vh;}
+p{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+
+  border: none;
+  text-align: center;
+  width: 50%;
+  height: 7%;
+  margin: 0 auto;
+  margin-top: -10px;
+
+  float: center;
+  color: blueviolet;
+}
+
+body{
+  background-color: darkturquoise;
+}
+
+.input {
+    text-align: center;
+}
